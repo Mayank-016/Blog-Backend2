@@ -23,7 +23,7 @@ app.use(
 );
 
 const connection = mysql2.createConnection({
-  hhost: "db4free.net",
+  host: "db4free.net",
   user: "root_user007",
   password: "#*Kt$2XQSaNhj@6",
   database: "backend",
